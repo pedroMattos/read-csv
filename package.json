@@ -1,0 +1,25 @@
+{
+  "name": "csv-reader",
+  "version": "1.0.0",
+  "description": "Projeto desenvolvido na Fiocruz para ler e tabular CSV",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pedroMattos/read-csv.git"
+  },
+  "author": "Pedro Mattos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pedroMattos/read-csv/issues"
+  },
+  "homepage": "https://github.com/pedroMattos/read-csv#readme",
+  "dependencies": {
+    "csv-parser": "^3.0.0",
+    "csv-writer": "^1.6.0",
+    "file-system": "^2.2.2",
+    "node-create-csv": "^1.0.0"
+  }
+}
